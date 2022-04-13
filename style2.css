@@ -76,9 +76,15 @@ button:focus {
 .movie-card[data-movie="Blade Runner"] {
     background-image: url("cod\ ss3.jpg");
 }
+.movie-card[data-movie="Blade Runner1"] {
+    background-image: url("cod\ ss3\ \(2\).jpg");
+}
+.movie-card[data-movie="Blade Runner2"] {
+    background-image: url("b4.jpg");
+}
 
 .movie-card[data-movie="Back to the Future"] {
-    background-image: url("cod\ ss3.jpg")
+    background-image: url("http://www.blastr.com/sites/blastr/files/back-to-the-future-part-ii-original.jpg")
 }
 
 .movie-card[data-movie=Akira] {
